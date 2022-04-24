@@ -1,0 +1,85 @@
+2022-04-24 01:13:16.1555 Info Message Template Auto Format enabled
+2022-04-24 01:13:16.1636 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 01:13:16.1899 Info Adding target FileTarget(Name=alldata)
+2022-04-24 01:13:16.1899 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-24 01:13:16.2064 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 01:14:38.9083 Info Message Template Auto Format enabled
+2022-04-24 01:14:38.9083 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 01:14:38.9395 Info Adding target FileTarget(Name=alldata)
+2022-04-24 01:14:38.9395 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-24 01:14:38.9573 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 01:27:46.6305 Info Message Template Auto Format enabled
+2022-04-24 01:27:46.6583 Info Adding target FileTarget(Name=fileTarget)
+2022-04-24 01:27:46.6583 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2022-04-24 01:27:46.6798 Info Validating config: TargetNames=consoleTarget, fileTarget, ConfigItems=25, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 01:30:19.5374 Info Message Template Auto Format enabled
+2022-04-24 01:30:19.5583 Info Adding target FileTarget(Name=fileTarget)
+2022-04-24 01:30:19.5653 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2022-04-24 01:30:19.5837 Info Validating config: TargetNames=consoleTarget, fileTarget, ConfigItems=25, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 01:31:47.9668 Info Message Template Auto Format enabled
+2022-04-24 01:31:47.9930 Info Adding target FileTarget(Name=fileTarget)
+2022-04-24 01:31:47.9930 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2022-04-24 01:31:48.0148 Info Validating config: TargetNames=consoleTarget, fileTarget, ConfigItems=25, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 01:34:26.6235 Info Message Template Auto Format enabled
+2022-04-24 01:34:26.6530 Info Adding target FileTarget(Name=fileTarget)
+2022-04-24 01:34:26.6594 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2022-04-24 01:34:26.6762 Info Validating config: TargetNames=consoleTarget, fileTarget, ConfigItems=25, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:42:17.2057 Info Message Template Auto Format enabled
+2022-04-24 12:42:17.2057 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:42:17.2502 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:42:17.2520 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-24 12:42:17.2753 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:45:24.7333 Info Message Template Auto Format enabled
+2022-04-24 12:45:24.7459 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:45:24.7820 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:45:24.8066 Info Validating config: TargetNames=alldata, ConfigItems=12, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:48:47.8432 Info Message Template Auto Format enabled
+2022-04-24 12:48:47.8487 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:48:47.8776 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error when setting value 'true' for property 'includeSourceInfo' on element 'NLog.Config.NLogXmlElement'
+ ---> System.NotSupportedException: Parameter includeSourceInfo not supported on FileTarget
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.ConfigureObjectFromAttributes(Object targetObject, ILoggingConfigurationElement element, Boolean ignoreType)
+   --- End of inner exception stack trace ---
+2022-04-24 12:48:47.8917 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:48:47.9154 Info Validating config: TargetNames=alldata, ConfigItems=12, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:54:55.3825 Info Message Template Auto Format enabled
+2022-04-24 12:54:55.3825 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:54:55.4237 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:54:55.4527 Info Validating config: TargetNames=alldata, ConfigItems=12, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:56:06.2324 Info Message Template Auto Format enabled
+2022-04-24 12:56:06.2373 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:56:06.2703 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:56:06.2703 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-24 12:56:06.2920 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:57:28.4647 Info Message Template Auto Format enabled
+2022-04-24 12:57:28.4647 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:57:28.5049 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:57:28.5049 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-24 12:57:28.5302 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 12:58:39.3671 Info Message Template Auto Format enabled
+2022-04-24 12:58:39.3671 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 12:58:39.4068 Info Adding target FileTarget(Name=alldata)
+2022-04-24 12:58:39.4068 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-24 12:58:39.4307 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 13:05:33.4612 Info Message Template Auto Format enabled
+2022-04-24 13:05:33.4612 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 13:05:33.5076 Info Adding target FileTarget(Name=f)
+2022-04-24 13:05:33.5076 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2022-04-24 13:05:33.5180 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-04-24 13:05:33.5352 Info Validating config: TargetNames=f, ConfigItems=18, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 13:05:33.5352 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: f
+2022-04-24 13:09:43.9461 Info Message Template Auto Format enabled
+2022-04-24 13:09:43.9551 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 13:09:43.9909 Info Adding target FileTarget(Name=alldata)
+2022-04-24 13:09:43.9909 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-04-24 13:09:44.0253 Info Validating config: TargetNames=alldata, ConfigItems=18, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 13:11:07.8095 Info Message Template Auto Format enabled
+2022-04-24 13:11:07.8163 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 13:11:07.8549 Info Adding target FileTarget(Name=alldata)
+2022-04-24 13:11:07.8638 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-04-24 13:11:07.8788 Info Validating config: TargetNames=alldata, ConfigItems=18, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
+2022-04-24 22:46:18.2603 Info Message Template Auto Format enabled
+2022-04-24 22:46:18.2677 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-24 22:46:18.2962 Info Adding target FileTarget(Name=alldata)
+2022-04-24 22:46:18.3031 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-04-24 22:46:18.3147 Info Validating config: TargetNames=alldata, ConfigItems=17, FilePath=C:\Users\Amma\source\repos\Test\NavTechAPI\NavTechAPI\bin\Debug\net6.0\nlog.config
